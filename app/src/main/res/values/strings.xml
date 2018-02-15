@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="title_fragment1">Séries</string>
+    <string name="title_fragment2">Filmes</string>
+</resources>
